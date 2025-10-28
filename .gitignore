@@ -1,2 +1,12 @@
+# Llaves privadas
 .env
+
+# Enviroments
 env
+
+# Data texto para base
+raw_data
+clean_data
+
+# Base vectorial
+qdrant_storage
